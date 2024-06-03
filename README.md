@@ -22,7 +22,7 @@ Bonjour ! Je suis Martin, un développeur passionné par l'intelligence artifici
 
 ## 📈 Statistiques GitHub
 
-![Les statistiques GitHub de Ton Nom](https://github-readme-stats.vercel.app/api?username=MartinB-E&show_icons=true&theme=radical)
+![Les statistiques GitHub de Ton Nom](https://github-readme-stats.vercel.app/api?username=Martin-Bonte&show_icons=true&theme=radical)
 
 
 <!---
