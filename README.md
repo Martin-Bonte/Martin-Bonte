@@ -7,7 +7,7 @@ Bonjour ! Je suis Martin, un développeur passionné par l'intelligence artifici
 - 🎓 **Éducation** : Actuellement à Epitech en Première année.
 - 🚀 **Projets en cours** : Travaillant actuellement sur My_IA, Minishell.
 - 📫 **Contact** : [MailPro](martinbonte.pro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/martin-bonte-98b7522b4/)
-- 
+
 ### 🌐 Projets Epitech
 - **[Minishell](https://github.com/Martin-Bonte/Minishell)** : Recréation d'un système d'interprétation de commande Bash en C.
 - **[My_Paint](https://github.com/Martin-Bonte/My_paint)** : Recréation du Paint de base de Windows en CSFML.
